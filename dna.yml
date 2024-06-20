@@ -1,0 +1,13 @@
+---
+  name: "ultrasonic_sensor"
+  type: "neuron"
+  author: "lindstrom"
+  
+  kalliope_supported_version:
+     - 0.7
+  tags:
+    - "utils"
+    - "sensor"
+    - "distance"
+    - "ultrasonic"
+    - "GPIO"
