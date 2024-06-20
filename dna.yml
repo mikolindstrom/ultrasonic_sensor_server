@@ -1,5 +1,5 @@
 ---
-  name: "ultrasonic_sensor"
+  name: "ultrasonic_sensor_server"
   type: "neuron"
   author: "lindstrom"
   
